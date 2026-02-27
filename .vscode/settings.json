@@ -1,0 +1,6 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
+}
+# Functions are instructions that are built into the programming code via a keyword. Example: Print 
+# Input() is a built in function that allows us to type in (put in) data through the terminal. Input must be assigned to a variable
