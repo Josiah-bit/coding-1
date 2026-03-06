@@ -12,6 +12,8 @@ color = input(Please type in a color:)
 
 # str() - This Built In Function will change whatever is inside it into a String Data Type 
 # int() - Interger Data Type 
+# type - shows what data type the thing is
+# input - anything inside input is automaticaly a strings
 
 # float() - 
 
